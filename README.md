@@ -9,7 +9,7 @@
 
  - 🔭 I’m currently working on a Platform Project Letsdosomething
 
-- 🌱 I’m currently learning python and php
+- 🌱 I’m currently learning javascript 
 
 - 👨‍💻 All of my projects are available at [github.com/tanuu2905/](github.com/tanuu2905)
 
