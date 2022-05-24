@@ -15,7 +15,7 @@
 
 - 📫 How to reach me ytanu76@gmail.com
  
-- Ask me about c,c++,htmland css
+- Ask me about c,c++,html and css
  <br>
 <hr>
 <br>
