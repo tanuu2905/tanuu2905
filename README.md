@@ -33,17 +33,15 @@
 <h3 align="left"> Some of my stats 📊:</h3>
 
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanuu2905&theme=midnight-purple" alt="tanuu2905" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanuu2905&langs_count=8&show_icons=true&locale=en&theme=midnight-purple" alt="tanuu2905" /></p>
+
 <p>&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanuu2905&show_icons=true&theme=midnight-purple" alt="tanuu2905" /></p>
 
 <p>&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanuu2905&theme=midnight-purple" alt="tanuu2905" /></p>
-
-
-<p> &nbsp;&nbsp;&nbsp;<img scr="https://github-readme-stats.vercel.app/api/pin/?username=tanuu2905&repo=https://github.com/tanuu2905/myportfolio"> </p> 
  
 <br>
  <br>
  <p>
-  <i>“Ruby is rubbish! PHP is phpantastic!”</i>
-  <i> – Nikita Popov</i>
+  <i>“ Code is like humor. When you have to explain it, it’s bad.” </i>
+  <i>– Cory House</i>
  </p>
